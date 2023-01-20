@@ -9,7 +9,8 @@ I'm also working on understanding principles of backend development.
 
 I hope you find my progress interesting.
 
-Please don't hesitate to reach out to me if you have any opportunities!
+Please don't hesitate to reach out to me if you have any opportunities!  
+email: NateACoffey@gmail.com
 
 
 <!--

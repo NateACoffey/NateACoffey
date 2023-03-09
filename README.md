@@ -2,7 +2,7 @@
 
 I am a developer on my coding journey.
 
-Here, you will find my early projects and experiments as I learn and grow in my skills.
+Here, you will find my projects and experiments as I learn and grow in my skills.
 
 I am currently working on understanding and utilizing HTML5, CSS, and JavaScript.  
 I'm also working on understanding principles of backend development.
